@@ -25,7 +25,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/GirishGowd/smallbusinesswebsite.git
 2. Open the project directory: `cd Ecommerce-website`
 3. Open the `index.html` file in your preferred web browser.
 
