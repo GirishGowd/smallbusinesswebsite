@@ -40,7 +40,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
 
 ## Connect with me
-https://www.linkedin.com/in/girish-gowd-3317b3253/
+https://www.linkedin.com/in/girish-gowd-3317b3253//
 https://github.com/GirishGowd
 
 ## Keywords:
